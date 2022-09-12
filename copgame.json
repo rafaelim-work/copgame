@@ -12307,6 +12307,7 @@
           "colorG": 206,
           "colorR": 13,
           "creationTime": 0,
+          "folded": true,
           "name": "Mundo",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -13530,7 +13531,6 @@
               "colorG": 148,
               "colorR": 207,
               "creationTime": 0,
-              "folded": true,
               "name": "Mecanica",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -13685,7 +13685,7 @@
                                 "",
                                 "ScrollText.wav",
                                 "",
-                                "80",
+                                "40",
                                 "0.8"
                               ]
                             }
